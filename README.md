@@ -65,4 +65,4 @@ Una vez instalados, el juego iniciará automáticamente. Espero que lo disfruten
 ---
 
 Repositorio de respaldo modificado por:  
-https://github.com/HexxyO/UnoTerminalFS
+https://github.com/AMM9838/AMMdominio
