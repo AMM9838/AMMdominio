@@ -1,0 +1,2 @@
+# AMMdominio
+Scrit
